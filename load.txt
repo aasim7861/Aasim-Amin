@@ -1,0 +1,11 @@
+Leeds United : Liverpool :1: 10
+Chelsea : Manchester City :5: 2 
+Hull : Manchester United :2: 5
+Arsenal : Tottenham :4: 5
+Manchester United : Liverpool :4: 0
+Peterborough : Manchester City :4: 3
+Manchester United : Arsenal :5: 2
+Chelsea : Liverpool :5: 2
+Chelsea : Manchester City :4: 4
+Arsenal : Southampton :1: 3
+Bradford : Peterborough :2: x
