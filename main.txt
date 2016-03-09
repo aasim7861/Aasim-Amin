@@ -1,0 +1,28 @@
+Leeds United : Liverpool : 1 : 2
+Chelsea : Manchester City : 1 : 1
+Aston Villa : Middlesbrough : 3 : 1
+Tottenham Hotspur : Stoke City : 0 : 0
+West Ham United : Wigan Athletic : 2 : 1
+Fulham : Liverpool : 1 : 2
+Wigan Athletic : Leeds United : 2 : 2
+Hull City : Tottenham Hotspur : 3 : 5
+Everton : Portsmouth : 4 : 2
+Stoke City : West Bromwich Albion : 5 : 4
+Blackburn Rovers : Fulham : 1 : 1
+West Ham United : Newcastle United : 0 : 0
+Manchester United : Wigan Athletic : 1 : 2
+Hull City : Sunderland : 2 : 3
+Fulham : Leeds United : 1 : 2
+Wigan Athletic : Tottenham Hotspur : 2 : 2
+Hull City : Everton : 3 : 5
+Sunderland : Blackburn Rovers : 4 : 2
+Stoke City : West Bromwich Albion : 5 : 4
+Blackburn Rovers : Fulham : 1 : 1
+Sunderland : Newcastle United : 0 : 0
+Sunderland : Blackburn Rovers : 1 : 2
+Hull City : Everton : 2 : 3
+Leeds United : Chelsea : 1 : 2
+Chelsea : Manchester City : 1 : 1
+Aston Villa : Fulham : 3 : 1
+Manchester City : Stoke City : 0 : 0
+West Ham United : Middlesbrough : 2 : 1
