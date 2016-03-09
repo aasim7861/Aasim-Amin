@@ -1,10 +1,4 @@
-/**
- * Simple example of a class which reads lines from a file and outputs each to
- * the console.
- * 
- * @author Mark Dixon
- *
- */
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
